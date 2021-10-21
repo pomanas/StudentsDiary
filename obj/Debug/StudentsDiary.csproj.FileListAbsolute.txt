@@ -1,0 +1,11 @@
+D:\dotnet\StudentsDiary\bin\Debug\StudentsDiary.exe.config
+D:\dotnet\StudentsDiary\bin\Debug\StudentsDiary.exe
+D:\dotnet\StudentsDiary\bin\Debug\StudentsDiary.pdb
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.AddEditStudent.resources
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.Main.resources
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.Properties.Resources.resources
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.csproj.GenerateResource.cache
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.csproj.CoreCompileInputs.cache
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.exe
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.pdb
+D:\dotnet\StudentsDiary\obj\Debug\StudentsDiary.csprojAssemblyReference.cache

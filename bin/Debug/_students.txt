@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Id>0</Id>
+    <FirstName>Jan</FirstName>
+    <LastName>Kowalski</LastName>
+    <Comments>Brak</Comments>
+    <Math />
+    <Technology />
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+  </Student>
+  <Student>
+    <Id>0</Id>
+    <FirstName>Marek</FirstName>
+    <LastName>Nowak</LastName>
+    <Comments>TEST</Comments>
+    <Math>4</Math>
+    <Technology>5</Technology>
+    <Physics>4</Physics>
+    <PolishLang>4</PolishLang>
+    <ForeignLang>4</ForeignLang>
+  </Student>
+</ArrayOfStudent>

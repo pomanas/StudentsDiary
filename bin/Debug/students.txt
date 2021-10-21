@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Id>1</Id>
+    <FirstName>Jan</FirstName>
+    <LastName>Nowak</LastName>
+    <Comments>1111</Comments>
+    <Math />
+    <Technology />
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>false</AditionalActivities>
+    <GroupId>0</GroupId>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <FirstName>gggg</FirstName>
+    <LastName />
+    <Comments />
+    <Math />
+    <Technology />
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>false</AditionalActivities>
+    <GroupId>0</GroupId>
+  </Student>
+  <Student>
+    <Id>3</Id>
+    <FirstName>abcd</FirstName>
+    <LastName />
+    <Comments />
+    <Math />
+    <Technology />
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>false</AditionalActivities>
+    <GroupId>0</GroupId>
+  </Student>
+  <Student>
+    <Id>4</Id>
+    <FirstName>kkkkkkk</FirstName>
+    <LastName />
+    <Comments />
+    <Math />
+    <Technology />
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>false</AditionalActivities>
+    <GroupId>0</GroupId>
+  </Student>
+  <Student>
+    <Id>5</Id>
+    <FirstName>aaaa</FirstName>
+    <LastName />
+    <Comments />
+    <Math />
+    <Technology />
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>true</AditionalActivities>
+    <GroupId>0</GroupId>
+  </Student>
+  <Student>
+    <Id>6</Id>
+    <FirstName>nnnnn</FirstName>
+    <LastName />
+    <Comments />
+    <Math />
+    <Technology>nn</Technology>
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>false</AditionalActivities>
+    <GroupId>1</GroupId>
+  </Student>
+  <Student>
+    <Id>7</Id>
+    <FirstName>gggg</FirstName>
+    <LastName>ggg</LastName>
+    <Comments />
+    <Math>ggggg</Math>
+    <Technology>ggg</Technology>
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>true</AditionalActivities>
+    <GroupId>0</GroupId>
+  </Student>
+  <Student>
+    <Id>8</Id>
+    <FirstName>gggg</FirstName>
+    <LastName>ggg</LastName>
+    <Comments />
+    <Math />
+    <Technology />
+    <Physics />
+    <PolishLang />
+    <ForeignLang />
+    <AditionalActivities>false</AditionalActivities>
+    <GroupId>2</GroupId>
+  </Student>
+</ArrayOfStudent>
